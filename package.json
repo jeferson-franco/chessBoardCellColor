@@ -1,0 +1,20 @@
+{
+  "name": "chessboardcellcolor",
+  "version": "1.0.0",
+  "description": "Given two cells on the standard chess board, determine whether they have the same color or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/chessBoardCellColor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/chessBoardCellColor/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/chessBoardCellColor#readme"
+}
